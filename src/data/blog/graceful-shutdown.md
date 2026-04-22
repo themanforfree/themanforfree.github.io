@@ -1,6 +1,6 @@
 ---
 title: "Rust 异步系统中的优雅停止：CancellationToken 实战"
-pubDatetime: 2026-04-22T14:00:00+08:00
+pubDatetime: 2026-04-22T15:45:00+08:00
 description: "从 Ctrl+C 到运行时摘除单个数据源，用 CancellationToken 把停止信号描述清楚。"
 tags:
   - Rust
